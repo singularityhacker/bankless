@@ -22,8 +22,8 @@ class MainBanner extends Component {
                         <div className="row align-items-center">
                             <div className="col-lg-6">
                                 <div className="banner-text">
-                                    <h1>Turn Your Documents Into Data With AI</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida risus commodo</p>
+                                    <h1>BanklessDAO</h1>
+                                    <p>Onboarding a billion people to financial self sovereignty</p>
                                     
                                     <div className="banner-btn">
                                         <Link href="/about-1">
