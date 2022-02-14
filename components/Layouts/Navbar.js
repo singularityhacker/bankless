@@ -64,7 +64,7 @@ class Navbar extends Component {
                                 <ul className="navbar-nav m-auto">
                                     <li className="nav-item">
                                         <Link href="/about-us">
-                                            <a className="nav-link" onClick={e => e.preventDefault()}>
+                                            <a className="nav-link" >
                                                 About Us <i className='bx bx-chevron-down'></i>
                                             </a>
                                         </Link>

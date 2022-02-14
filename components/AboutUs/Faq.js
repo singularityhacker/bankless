@@ -80,6 +80,29 @@ class AboutUsFaq extends Component {
                                 <img src="/images/faq-img.png" alt="Image" />
                             </div>
                         </div>
+                        <div className="mt-20">
+                        <h2>Our Values</h2>
+                        <p><strong>Education</strong></p>
+                        <p>We learn from each other. We seek to become a trusted guide that empowers people all over the globe to adopt decentralized finance by sharing accurate, truthful, and objective information.</p>
+                        <p><strong>Integrity</strong></p>
+                        <p>We operate transparently and build trust through radically public discourse and financial auditability.</p>
+                        <p><strong>Decentralized Governance</strong></p>
+                        <p>We put decision making into the hands of the collective. We create legitimacy through an environment where the best ideas win.</p>
+                        <p><strong>Culture</strong></p>
+                        <p>We reward action and embrace risk. We empower our community to continually drive new initiatives by providing a space to self-organize and quickly move from idea to action.</p>
+                        </div>
+                        <div className="mt-20">
+                        <h2>Join Us</h2>
+                        <p>This open and liberal financial system is just getting started. We’re building new economies, new ways to work, new thought leadership and scholarship, and new forms of art.   
+                        Join us and embark on our mission: 
+                        </p>
+                        <ol>
+                        <li>To educate the masses in this new decentralized money system that anyone can use to build wealth and climb the economic ladder.</li>
+                        <li>To create new paradigms in how people coordinate, organize, and work.</li>
+                        <li>To be at the forefront of art and culture. </li>
+                        <li>To provide alpha every day and every hour of the year. </li>
+                        </ol>
+                        </div>
                     </div>
                 </div>
             </section>
