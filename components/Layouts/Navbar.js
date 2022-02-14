@@ -63,7 +63,7 @@ class Navbar extends Component {
                             <div className={classOne} id="navbarSupportedContent">
                                 <ul className="navbar-nav m-auto">
                                     <li className="nav-item">
-                                        <Link href="/">
+                                        <Link href="/about-us">
                                             <a className="nav-link" onClick={e => e.preventDefault()}>
                                                 About Us <i className='bx bx-chevron-down'></i>
                                             </a>
