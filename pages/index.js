@@ -15,14 +15,7 @@ const Index = () => {
         <>
             <Navbar />
             <MainBanner />
-            <Features />
             <About />
-            <WhyChooseUs />
-            <Services />
-            <MakeYourBusiness />
-            <WhatWeOffer />
-            <Testimonials />
-            <News />
             <Footer />
         </>
     )
