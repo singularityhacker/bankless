@@ -34,7 +34,7 @@ class Main extends Component {
                             <a href="https://mirror.xyz/therug.eth/editions/0xDF5b5ee15CC96ba7d0CB6BD9b2c0fc4417ab6445/3131">The Rug</a>
                             <p>A satire publication that takes money, seriously. Read and collect NFTs of their editions on <a href="https://mirror.xyz/therug.eth/editions/0xDF5b5ee15CC96ba7d0CB6BD9b2c0fc4417ab6445/3131">Mirror</a> and follow along on <a href="https://twitter.com/TheRugNews">Twitter</a>. </p>
                           </div>
-                          <div className="mt-20">
+                          <div className="mt-20 mb-20">
                             <h2>INTERNATIONAL MEDIA NODES</h2>
                             <a href="https://mirror.xyz/therug.eth/editions/0xDF5b5ee15CC96ba7d0CB6BD9b2c0fc4417ab6445/3131">The Rug</a>
                             <p>International Media Nodes (IMN) are Bankless channels that spread the message of the Bankless movement beyond North America.They translate BanklessDAO content, publish original pieces, run Twitter pages and ship newsletters. Find their home pages below.  </p>

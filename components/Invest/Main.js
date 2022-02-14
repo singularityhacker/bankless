@@ -32,7 +32,7 @@ class Main extends Component {
                         <h2>Chippi</h2>
                         <p>Chippi are hand-drawn 1-of-1s from BanklessDAO contributor Perchy. These profile pictures (PFPs) are members of the Chippiverse, playing a role in “The Future is DAO” storyline. Chippi inhabit the Bankless Nation, a series of art pieces available as NFTs.</p>
                         </div>
-                        <div className="mt-20">
+                        <div className="mt-20 mb-20">
                         <h2>BanklessDAO Weekly NFT Showcase</h2>
                         <p>BanklessDAO is embedded in the creative space of NFTs and a champion for artists paving the way in digital art forms. Weekly features can be found on BanklessDAO’s Rarible page or the Weekly Rollup newsletter. </p>
                         </div>
