@@ -69,6 +69,8 @@ class Navbar extends Component {
                                             </a>
                                         </Link>
 
+                        
+
                                         <ul className="dropdown-menu">
                                             <li className="nav-item">
                                                 <Link href="/" activeClassName="active">
@@ -108,6 +110,21 @@ class Navbar extends Component {
                                                 </Link>
                                             </li>
                                         </ul>
+
+                                    </li>
+                                    <li className="nav-item">
+                                    <Link href="/invest">
+                                    <a className="nav-link" >
+                                        Invest <i className='bx bx-chevron-down'></i>
+                                    </a>
+                                </Link>
+                                    </li>
+                                    <li className="nav-item">
+                                    <Link href="/read">
+                                    <a className="nav-link" >
+                                        Read <i className='bx bx-chevron-down'></i>
+                                    </a>
+                                </Link>
                                     </li>
                                     <li className="nav-item">
                                     <Link href="/">
